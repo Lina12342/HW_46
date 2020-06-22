@@ -1,0 +1,38 @@
+[ {
+  "data" : {
+    "Passed" : 1,
+    "Test defects" : 1
+  }
+}, {
+  "data" : {
+    "Passed" : 2
+  }
+}, {
+  "data" : {
+    "Passed" : 2
+  }
+}, {
+  "data" : {
+    "Passed" : 2
+  }
+}, {
+  "data" : {
+    "Passed" : 2
+  }
+}, {
+  "data" : {
+    "Passed" : 2
+  }
+}, {
+  "data" : {
+    "Passed" : 2
+  }
+}, {
+  "data" : {
+    "Passed" : 2
+  }
+}, {
+  "data" : { }
+}, {
+  "data" : { }
+} ]

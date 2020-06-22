@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "SignUpTest",
+    "uid" : "d6e342ef8bcf89cc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1592794738815,
+      "stop" : 1592794743789,
+      "duration" : 4974
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "ConfirmationTest",
+    "uid" : "53190a50a57aa17d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1592794745823,
+      "stop" : 1592794747610,
+      "duration" : 1787
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}

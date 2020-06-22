@@ -1,0 +1,242 @@
+{
+  "uid" : "53190a50a57aa17d",
+  "name" : "ConfirmationTest",
+  "fullName" : "core.ExtentReportsTest.ConfirmationTest",
+  "historyId" : "ed09dcfe5260b6528b061752f766a0cb",
+  "time" : {
+    "start" : 1592794745823,
+    "stop" : 1592794747610,
+    "duration" : 1787
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "startReport",
+    "time" : {
+      "start" : 1592794725764,
+      "stop" : 1592794726706,
+      "duration" : 942
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1592794726756,
+      "stop" : 1592794738587,
+      "duration" : 11831
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "getResult",
+    "time" : {
+      "start" : 1592794747613,
+      "stop" : 1592794748340,
+      "duration" : 727
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "endReport",
+    "time" : {
+      "start" : 1592794748686,
+      "stop" : 1592794750154,
+      "duration" : 1468
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1592794748347,
+      "stop" : 1592794748685,
+      "duration" : 338
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "core.ExtentReportsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "core.ExtentReportsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "ConfirmationTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "core.ExtentReportsTest"
+  }, {
+    "name" : "host",
+    "value" : "Alenas-MacBook.local"
+  }, {
+    "name" : "thread",
+    "value" : "80280@Alenas-MacBook.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "56e59be2ef9f4603",
+      "status" : "broken",
+      "statusDetails" : "Unresolved compilation problem: \n\tThe method validate(WebDriver, String) in the type Confirmation is not applicable for the arguments (ExtentTest)\n",
+      "time" : {
+        "start" : 1592793659794,
+        "stop" : 1592793659800,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "694f8047fd6b36a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592793259581,
+        "stop" : 1592793261709,
+        "duration" : 2128
+      }
+    }, {
+      "uid" : "ce74bdd3b397c653",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592792992819,
+        "stop" : 1592792994558,
+        "duration" : 1739
+      }
+    }, {
+      "uid" : "969b65cbe5e38f76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592792909134,
+        "stop" : 1592792918270,
+        "duration" : 9136
+      }
+    }, {
+      "uid" : "55f7438608cfec32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592792812545,
+        "stop" : 1592792814977,
+        "duration" : 2432
+      }
+    }, {
+      "uid" : "b292709858e743e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592792726957,
+        "stop" : 1592792728365,
+        "duration" : 1408
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "579348fcae52ce54",
+        "status" : "broken",
+        "statusDetails" : "Unresolved compilation problem: \n\tThe method validate(WebDriver, String) in the type Confirmation is not applicable for the arguments (ExtentTest)\n",
+        "time" : {
+          "start" : 1592793659794,
+          "stop" : 1592793659800,
+          "duration" : 6
+        }
+      }, {
+        "uid" : "4aad54b3f07b5945",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592793259581,
+          "stop" : 1592793261709,
+          "duration" : 2128
+        }
+      }, {
+        "uid" : "532fc67657534d6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592792992819,
+          "stop" : 1592792994558,
+          "duration" : 1739
+        }
+      }, {
+        "uid" : "de0dfc74655fca3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592792992819,
+          "stop" : 1592792994558,
+          "duration" : 1739
+        }
+      }, {
+        "uid" : "cb06ac867d0d20af",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592792992819,
+          "stop" : 1592792994558,
+          "duration" : 1739
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "53190a50a57aa17d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="24484" started-at="2020-06-21T19:58:45 PDT" finished-at="2020-06-21T19:59:10 PDT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="24484" started-at="2020-06-21T19:58:45 PDT" finished-at="2020-06-21T19:59:10 PDT">
+      <class name="core.ExtentReportsTest">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:core.ExtentReportsTest@13c3c1e1]" name="startReport" is-config="true" duration-ms="1000" started-at="2020-06-21T19:58:45 PDT" finished-at="2020-06-21T19:58:46 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:core.ExtentReportsTest@13c3c1e1]" name="beforeClass" is-config="true" duration-ms="11833" started-at="2020-06-21T19:58:46 PDT" finished-at="2020-06-21T19:58:58 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="SignUpTest()[pri:0, instance:core.ExtentReportsTest@13c3c1e1]" name="SignUpTest" duration-ms="5107" started-at="2020-06-21T19:58:58 PDT" finished-at="2020-06-21T19:59:03 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:core.ExtentReportsTest@13c3c1e1]" name="getResult" is-config="true" duration-ms="1292" started-at="2020-06-21T19:59:04 PDT" finished-at="2020-06-21T19:59:05 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SignUpTest status=SUCCESS method=ExtentReportsTest.SignUpTest()[pri:0, instance:core.ExtentReportsTest@13c3c1e1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="ConfirmationTest()[pri:1, instance:core.ExtentReportsTest@13c3c1e1]" name="ConfirmationTest" duration-ms="1790" started-at="2020-06-21T19:59:05 PDT" depends-on-methods="core.ExtentReportsTest.SignUpTest" finished-at="2020-06-21T19:59:07 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmationTest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:core.ExtentReportsTest@13c3c1e1]" name="getResult" is-config="true" duration-ms="727" started-at="2020-06-21T19:59:07 PDT" finished-at="2020-06-21T19:59:08 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ConfirmationTest status=SUCCESS method=ExtentReportsTest.ConfirmationTest()[pri:1, instance:core.ExtentReportsTest@13c3c1e1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:core.ExtentReportsTest@13c3c1e1]" name="afterClass" is-config="true" duration-ms="340" started-at="2020-06-21T19:59:08 PDT" finished-at="2020-06-21T19:59:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:core.ExtentReportsTest@13c3c1e1]" name="endReport" is-config="true" duration-ms="1468" started-at="2020-06-21T19:59:08 PDT" finished-at="2020-06-21T19:59:10 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- core.ExtentReportsTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

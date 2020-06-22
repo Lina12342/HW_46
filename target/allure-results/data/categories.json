@@ -1,0 +1,44 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Passed",
+    "children" : [ {
+      "children" : [ {
+        "name" : "SignUpTest",
+        "uid" : "7a580f873429f90b",
+        "parentUid" : "1a6bc8532ed3e855fc832ee4e96b0764",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592793654805,
+          "stop" : 1592793657996,
+          "duration" : 3191
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a6bc8532ed3e855fc832ee4e96b0764"
+    } ],
+    "uid" : "7e1dff7028ad53fad7abb983ae6cc28d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Unresolved compilation problem: \n\tThe method validate(WebDriver, String) in the type Confirmation is not applicable for the arguments (ExtentTest)\n",
+      "children" : [ {
+        "name" : "ConfirmationTest",
+        "uid" : "579348fcae52ce54",
+        "parentUid" : "8dc6ff03884e4b3a69d5f6ad44f1b6a6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592793659794,
+          "stop" : 1592793659800,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8dc6ff03884e4b3a69d5f6ad44f1b6a6"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

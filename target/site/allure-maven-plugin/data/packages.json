@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "core.ExtentReportsTest",
+    "children" : [ {
+      "name" : "SignUpTest",
+      "uid" : "d6e342ef8bcf89cc",
+      "parentUid" : "db640bc1bb891d149f462805162f3692",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592794738815,
+        "stop" : 1592794743789,
+        "duration" : 4974
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "ConfirmationTest",
+      "uid" : "53190a50a57aa17d",
+      "parentUid" : "db640bc1bb891d149f462805162f3692",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592794745823,
+        "stop" : 1592794747610,
+        "duration" : 1787
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "core.ExtentReportsTest"
+  } ],
+  "name" : "packages"
+}

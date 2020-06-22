@@ -1,0 +1,24 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Passed",
+    "children" : [ {
+      "children" : [ {
+        "name" : "SignUpTest",
+        "uid" : "d6e342ef8bcf89cc",
+        "parentUid" : "1a6bc8532ed3e855fc832ee4e96b0764",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592794738815,
+          "stop" : 1592794743789,
+          "duration" : 4974
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a6bc8532ed3e855fc832ee4e96b0764"
+    } ],
+    "uid" : "7e1dff7028ad53fad7abb983ae6cc28d"
+  } ],
+  "name" : "categories"
+}

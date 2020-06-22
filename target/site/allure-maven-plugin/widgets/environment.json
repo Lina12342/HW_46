@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "QA" ],
+  "name" : "environment"
+}, {
+  "values" : [ "macOS 10.15.5" ],
+  "name" : "os"
+}, {
+  "values" : [ "Alena Nikolaeva" ],
+  "name" : "sdet"
+}, {
+  "values" : [ "Firefox 81.0" ],
+  "name" : "browser"
+}, {
+  "values" : [ "http://alex.academy" ],
+  "name" : "url"
+} ]

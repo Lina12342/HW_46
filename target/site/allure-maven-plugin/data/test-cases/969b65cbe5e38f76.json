@@ -1,0 +1,139 @@
+{
+  "uid" : "969b65cbe5e38f76",
+  "name" : "ConfirmationTest",
+  "fullName" : "core.ExtentReportsTest.ConfirmationTest",
+  "historyId" : "ed09dcfe5260b6528b061752f766a0cb",
+  "time" : {
+    "start" : 1592792909134,
+    "stop" : 1592792918270,
+    "duration" : 9136
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1592792866785,
+      "stop" : 1592792890541,
+      "duration" : 23756
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "startReport",
+    "time" : {
+      "start" : 1592792865894,
+      "stop" : 1592792866718,
+      "duration" : 824
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1592792918534,
+      "stop" : 1592792918824,
+      "duration" : 290
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "endReport",
+    "time" : {
+      "start" : 1592792918825,
+      "stop" : 1592792920530,
+      "duration" : 1705
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "getResult",
+    "time" : {
+      "start" : 1592792918276,
+      "stop" : 1592792918528,
+      "duration" : 252
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "core.ExtentReportsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "core.ExtentReportsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "ConfirmationTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "core.ExtentReportsTest"
+  }, {
+    "name" : "host",
+    "value" : "Alenas-MacBook.local"
+  }, {
+    "name" : "thread",
+    "value" : "79595@Alenas-MacBook.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "969b65cbe5e38f76.json",
+  "parameterValues" : [ ]
+}

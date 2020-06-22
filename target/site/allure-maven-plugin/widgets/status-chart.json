@@ -1,0 +1,21 @@
+[ {
+  "uid" : "53190a50a57aa17d",
+  "name" : "ConfirmationTest",
+  "time" : {
+    "start" : 1592794745823,
+    "stop" : 1592794747610,
+    "duration" : 1787
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6e342ef8bcf89cc",
+  "name" : "SignUpTest",
+  "time" : {
+    "start" : 1592794738815,
+    "stop" : 1592794743789,
+    "duration" : 4974
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,105 @@
+{
+  "c6a5c35a3a1974d97f559033b0a31ee7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "7a580f873429f90b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592793654805,
+        "stop" : 1592793657996,
+        "duration" : 3191
+      }
+    }, {
+      "uid" : "31b69b8e43ad28b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592793252920,
+        "stop" : 1592793257727,
+        "duration" : 4807
+      }
+    }, {
+      "uid" : "aa635036f8dc9089",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592792987898,
+        "stop" : 1592792991047,
+        "duration" : 3149
+      }
+    }, {
+      "uid" : "ce9b3b7c784b61bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592792987898,
+        "stop" : 1592792991047,
+        "duration" : 3149
+      }
+    }, {
+      "uid" : "6d7e0bcb94d12fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592792987898,
+        "stop" : 1592792991047,
+        "duration" : 3149
+      }
+    } ]
+  },
+  "ed09dcfe5260b6528b061752f766a0cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "579348fcae52ce54",
+      "status" : "broken",
+      "statusDetails" : "Unresolved compilation problem: \n\tThe method validate(WebDriver, String) in the type Confirmation is not applicable for the arguments (ExtentTest)\n",
+      "time" : {
+        "start" : 1592793659794,
+        "stop" : 1592793659800,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "4aad54b3f07b5945",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592793259581,
+        "stop" : 1592793261709,
+        "duration" : 2128
+      }
+    }, {
+      "uid" : "532fc67657534d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592792992819,
+        "stop" : 1592792994558,
+        "duration" : 1739
+      }
+    }, {
+      "uid" : "de0dfc74655fca3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592792992819,
+        "stop" : 1592792994558,
+        "duration" : 1739
+      }
+    }, {
+      "uid" : "cb06ac867d0d20af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592792992819,
+        "stop" : 1592792994558,
+        "duration" : 1739
+      }
+    } ]
+  }
+}

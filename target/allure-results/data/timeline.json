@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "Alenas-MacBook.local",
+    "children" : [ {
+      "name" : "80116@Alenas-MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "ConfirmationTest",
+        "uid" : "579348fcae52ce54",
+        "parentUid" : "0118457072e419b6802e9e53b969ce7d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592793659794,
+          "stop" : 1592793659800,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "SignUpTest",
+        "uid" : "7a580f873429f90b",
+        "parentUid" : "0118457072e419b6802e9e53b969ce7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592793654805,
+          "stop" : 1592793657996,
+          "duration" : 3191
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0118457072e419b6802e9e53b969ce7d"
+    } ],
+    "uid" : "7d6c7c13f38f04be3a15d2cfa008939c"
+  } ],
+  "name" : "timeline"
+}

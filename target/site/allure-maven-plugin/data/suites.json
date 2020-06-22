@@ -1,0 +1,41 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "core.ExtentReportsTest",
+        "children" : [ {
+          "name" : "SignUpTest",
+          "uid" : "d6e342ef8bcf89cc",
+          "parentUid" : "41796a7ffff2a54efd3c29bf1e6a8e0d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592794738815,
+            "stop" : 1592794743789,
+            "duration" : 4974
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "ConfirmationTest",
+          "uid" : "53190a50a57aa17d",
+          "parentUid" : "41796a7ffff2a54efd3c29bf1e6a8e0d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592794745823,
+            "stop" : 1592794747610,
+            "duration" : 1787
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "41796a7ffff2a54efd3c29bf1e6a8e0d"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ],
+  "name" : "suites"
+}
